@@ -1,0 +1,30 @@
+{
+    "name": "disarray",
+    "version": "0.1.0",
+    "description": "Manipulate arrays while avoiding general disarray.",
+    "homepage": "https://github.com/joelpurra/jq-disarray",
+    "bugs": "https://github.com/joelpurra/jq-disarray/issues",
+    "author": {
+        "name": "Joel Purra",
+        "url": "http://joelpurra.com/"
+    },
+    "main": "./jq/main.jq",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/joelpurra/jq-disarray.git"
+    },
+    "dependencies": {
+        "joelpurra/jq-dry": "^0.1.1"
+    },
+    "engines": {
+        "jq": "^1.5.0",
+        "jqnpm": "^1.0.0"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }],
+    "keywords": [
+        "jq-package"
+    ]
+}
