@@ -48,7 +48,7 @@ null | Disarray::zeros(3) # [ 0, 0, 0 ]
 ---
 
 ## License
-Copyright (c) 2015 Joel Purra <http://joelpurra.com/>
+Copyright (c) 2015 Joel Purra <https://joelpurra.com/>
 All rights reserved.
 
 When using **jq-disarray**, comply to the MIT license. Please see the LICENSE file for details.
